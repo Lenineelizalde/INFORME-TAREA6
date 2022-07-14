@@ -77,23 +77,45 @@ Analizar y comprender los distintos temas planteados en el capitulo numero 11 y 
 
 ![image](https://user-images.githubusercontent.com/105298935/178915334-cf383934-f5f2-401b-af03-3c54c58c6b7c.png)
 
+![image](https://user-images.githubusercontent.com/105298935/178985274-eb15dcc2-c216-49e0-99d9-d1dc61b977f3.png)
 
+12. Cambie los siguientes valores angulares de radianes a grados:
 
+![image](https://user-images.githubusercontent.com/105298935/178987146-83e07193-e297-4363-ad5d-662c9d1442b2.png)
 
+14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
 
+![image](https://user-images.githubusercontent.com/105298935/178988162-41a75565-8cd3-4627-ba31-8aa5e6a863cc.png)
 
+16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
 
+![image](https://user-images.githubusercontent.com/105298935/178990940-0e1526cb-954f-4952-b071-ba78b5ed13c3.png)
 
+18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
 
+![image](https://user-images.githubusercontent.com/105298935/178993963-af9af0b5-00bd-4059-8da2-74108b34b279.png)
 
+![image](https://user-images.githubusercontent.com/105298935/178993517-6f959b72-b520-483b-86f5-da8fe30cdb59.png)
 
+![image](https://user-images.githubusercontent.com/105298935/178993540-e355ca47-ba69-47ca-b354-4d7ea942c493.png)
 
+![image](https://user-images.githubusercontent.com/105298935/178993633-3f05a840-98e4-4a44-a4a3-728c41a46151.png)
 
+![image](https://user-images.githubusercontent.com/105298935/178993670-460469a5-c655-4482-8082-3b8fe09edc84.png)
 
+20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.
 
+![image](https://user-images.githubusercontent.com/105298935/178995468-445d28c5-c250-447d-be84-85f650cef3de.png)
 
+22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.
 
+![image](https://user-images.githubusercontent.com/105298935/178995574-5959bc0d-5f0f-4d19-9326-1ec8a7193d57.png)
 
+![image](https://user-images.githubusercontent.com/105298935/178996698-7509b918-5150-4221-ae68-06e4dacf8284.png)
+
+24. Determine la frecuencia para cada velocidad angular:
+
+![image](https://user-images.githubusercontent.com/105298935/178998067-5592222e-bb23-4751-8c67-d9ee2627e788.png)
 
 
 
@@ -115,6 +137,78 @@ Analizar y comprender los distintos temas planteados en el capitulo numero 11 y 
 
 
 ### 3.2 EJERCICIOS CAPITULO 12.
+
+2. Transforme los siguientes valores de microfarads a picofarads:
+
+![image](https://user-images.githubusercontent.com/105298935/178999560-d41c7d05-8fc2-4850-ad8d-048a875a37c9.png)
+
+4. Transforme los siguientes valores de farads a microfarads;
+
+![image](https://user-images.githubusercontent.com/105298935/179000778-6bd85cec-65f8-4470-8151-5f190413d544.png)
+
+6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
+
+![image](https://user-images.githubusercontent.com/105298935/179004425-456dda6e-f6cb-45ed-8840-aaae8d437d2f.png)
+
+8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?
+
+![image](https://user-images.githubusercontent.com/105298935/179004798-5651dd42-a3f7-441c-9aac-34fe68ea5d1f.png)
+
+10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er=2.5) de 8*10^5 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?
+
+![image](https://user-images.githubusercontent.com/105298935/179006722-0c5c58ab-e500-40a4-8f5e-44ae12bf2286.png)
+
+12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
+
+![image](https://user-images.githubusercontent.com/105298935/179008913-bedf62b5-e1fb-4daf-aa48-97aa4c9d766b.png)
+
+14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?
+
+Para que el area de la placa aumente se debe de aumentar el numero de capas que tenga la placa y tambien los materiales dielectricos.
+
+16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
+
+![image](https://user-images.githubusercontent.com/105298935/179010129-156025a9-fa9c-40f8-8405-b3f6a761157b.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179013021-d27715fd-8478-4221-a747-3e10e6aee084.png)
+
+18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.
+
+![image](https://user-images.githubusercontent.com/105298935/179013123-dca71751-6166-47d9-9823-b58d395e77a1.png)
+
+A) Encapsulamiento
+
+B) Dielectrico
+
+C) Placa o disco de metal
+
+D) Cables conductores
+
+20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
+
+![image](https://user-images.githubusercontent.com/105298935/179015721-7df64559-baad-4481-82d9-41c04d00cf51.png)
+
+22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.
+
+![image](https://user-images.githubusercontent.com/105298935/179015822-642f0be6-5c30-46fa-8f2e-33118dd04cc5.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179018442-b4c3840e-b894-4db4-bc09-121cb38d5b6b.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179018477-d8e331f4-d515-49ec-ab83-7af6b419d122.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179018496-94d58373-6e01-4293-b50a-80a9040f2988.png)
+
+24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor.
+
+![image](https://user-images.githubusercontent.com/105298935/179018702-269f0299-2d91-42f0-b1b1-085250d75d47.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179019675-15954bae-1c81-4911-8636-65d116caa768.png)
+
+26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
+
+![image](https://user-images.githubusercontent.com/105298935/179019901-75cb6fad-4ca6-45ae-a3a8-aec4118791af.png)
+
+
 
 
 
