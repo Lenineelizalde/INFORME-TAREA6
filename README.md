@@ -57,8 +57,79 @@ Analizar y comprender los distintos temas planteados en el capitulo numero 11 y 
 
 ### 3.1- EJERCICIOS CAPITULO 11.
 
+2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
+
+![image](https://user-images.githubusercontent.com/105298935/178913543-e69884f2-3df4-419d-a90b-d2c9e35635b7.png)
+
+4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
+
+![image](https://user-images.githubusercontent.com/105298935/178913938-93ed7b1e-b97f-4801-9189-8fbde25ee849.png)
+
+6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
+
+![image](https://user-images.githubusercontent.com/105298935/178914271-4b2152ce-1b11-471b-80ea-dab6ef7febe2.png)
+
+8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:
+
+![image](https://user-images.githubusercontent.com/105298935/178915271-2d800095-c9b3-453b-9d6e-ce729ed74bb0.png)
+
+10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio
+
+![image](https://user-images.githubusercontent.com/105298935/178915334-cf383934-f5f2-401b-af03-3c54c58c6b7c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 3.2 EJERCICIOS CAPITULO 12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
