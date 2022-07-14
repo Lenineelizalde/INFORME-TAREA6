@@ -208,6 +208,60 @@ D) Cables conductores
 
 ![image](https://user-images.githubusercontent.com/105298935/179019901-75cb6fad-4ca6-45ae-a3a8-aec4118791af.png)
 
+![image](https://user-images.githubusercontent.com/105298935/179024807-6641cd1d-f020-4cb0-bdda-53fb28cfc90f.png)
+
+28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
+
+![image](https://user-images.githubusercontent.com/105298935/179024947-d43fcb4d-7930-4c3f-bc1d-e6c2410c3d71.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179025390-f781544b-62a4-4548-9ef6-8d112e6c66e8.png)
+
+30. Determine la constante de tiempo para cada una de las combinaciones en serie:
+
+![image](https://user-images.githubusercontent.com/105298935/179026818-bd86bd72-8233-4594-ba9a-1bceb2b542e4.png)
+
+32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
+
+![image](https://user-images.githubusercontent.com/105298935/179027074-8accebc6-d171-4bae-99e6-8714f75b00fc.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179029956-b376543b-1e0e-4c0e-a965-a67749d7f623.png)
+
+34. Repita el problema 32 con los siguientes intervalos de tiempo:
+
+![image](https://user-images.githubusercontent.com/105298935/179030095-3a90266e-6ac7-4385-a20a-547d8b6cd328.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179030514-3b64ad7c-a3bb-44c2-8875-38a800244b13.png)
+
+36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.
+
+![image](https://user-images.githubusercontent.com/105298935/179030646-987c7c63-1962-4d64-8f1e-87bfb092cf25.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179032386-15fdd1f0-c0b1-4b00-b3cc-d9dcec715dc3.png)
+
+38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
+
+![image](https://user-images.githubusercontent.com/105298935/179032477-f364b162-550c-47da-bd55-7e48dbe55eaf.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179032794-2fc4337c-6ce9-4b9f-91e7-dc83f582da59.png)
+
+40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t= 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
+
+![image](https://user-images.githubusercontent.com/105298935/179033028-3923c39f-3dbf-498f-bfb6-43340f0dae22.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179033583-7347132f-24d3-4500-a64a-9fcd2c7e690e.png)
+
+42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
+
+![image](https://user-images.githubusercontent.com/105298935/179033729-8da34f7a-fc90-4c5b-b8fa-2d3e6844d1e1.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179036119-26f14a74-3c35-4916-9182-f115efddc2e3.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179036165-f65815b6-1680-47f0-87ea-d34898985205.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179036189-2084d504-fc75-47d3-9e2a-fe075c2cba6b.png)
+
+44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Æ? ¿Una XC de 1 kÆ?
+
 
 
 
