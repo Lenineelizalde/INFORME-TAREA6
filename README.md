@@ -260,7 +260,6 @@ D) Cables conductores
 
 ![image](https://user-images.githubusercontent.com/105298935/179036189-2084d504-fc75-47d3-9e2a-fe075c2cba6b.png)
 
-44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Æ? ¿Una XC de 1 kÆ?
 
 
 
@@ -272,18 +271,17 @@ D) Cables conductores
 
 
 
+50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
 
+![image](https://user-images.githubusercontent.com/105298935/179042547-566bf95f-5a31-4e91-a2c3-026eb9771cc9.png)
 
+52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
 
+Para poder esliminar el voltaje determinado debe de ser de 0Ω para que este proporcione un corto a tierra de CA
 
+54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
-
-
-
-
-
-
-## 4.- VIDEO.
+![image](https://user-images.githubusercontent.com/105298935/179041856-52d05165-7652-47e2-b56c-f2d92f3cba10.png)
 
 
 ## 5.- CONCLUSIONES.
