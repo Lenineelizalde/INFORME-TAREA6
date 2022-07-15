@@ -132,10 +132,6 @@ Analizar y comprender los distintos temas planteados en el capitulo numero 11 y 
 
 
 
-
-
-
-
 ### 3.2 EJERCICIOS CAPITULO 12.
 
 2. Transforme los siguientes valores de microfarads a picofarads:
