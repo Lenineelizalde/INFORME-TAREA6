@@ -291,7 +291,9 @@ Para poder esliminar el voltaje determinado debe de ser de 0Ω para que este pro
 
 ![image](https://user-images.githubusercontent.com/105298935/179134761-ad380fed-7a68-466f-a550-613970b9bcc5.png)
 
+## 4.- VIDEO.
 
+https://www.youtube.com/watch?v=KXFILzwKv6s
 
 ## 5.- CONCLUSIONES.
 
