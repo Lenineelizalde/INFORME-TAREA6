@@ -266,14 +266,26 @@ D) Cables conductores
 
 
 
+48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.
 
+![image](https://user-images.githubusercontent.com/105298935/179146511-a54bb81e-5a0b-46de-abc2-1e6fd69cd802.png)
 
+![image](https://user-images.githubusercontent.com/105298935/179149375-7eaefc6e-00ff-4f85-af3e-da15e9fdcffd.png)
 
+![image](https://user-images.githubusercontent.com/105298935/179154598-0a247c44-419a-4880-a035-6ceac5112fd5.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179154619-c5eb5e6a-ee14-473d-8a3d-ab8295ae4046.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179154630-332c4a19-9963-4c60-bca1-a961253d62e2.png)
 
 
 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
 
 ![image](https://user-images.githubusercontent.com/105298935/179042547-566bf95f-5a31-4e91-a2c3-026eb9771cc9.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179146311-9e7c00ec-9157-4075-a1ee-d05e1feaf040.png)
+
+![image](https://user-images.githubusercontent.com/105298935/179146341-992aae42-56f0-49bb-9d6d-76baddb8fe05.png)
 
 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
 
@@ -281,7 +293,8 @@ Para poder esliminar el voltaje determinado debe de ser de 0Ω para que este pro
 
 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
-![image](https://user-images.githubusercontent.com/105298935/179041856-52d05165-7652-47e2-b56c-f2d92f3cba10.png)
+![image](https://user-images.githubusercontent.com/105298935/179134761-ad380fed-7a68-466f-a550-613970b9bcc5.png)
+
 
 
 ## 5.- CONCLUSIONES.
